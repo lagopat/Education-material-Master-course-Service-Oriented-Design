@@ -14,9 +14,11 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- src/                             Source code used in the course (if applicable)
+     |--- templates/                       Templates supporting the course setup and running
      |
-     |--- documentation/                   Further structured documentation of the course content
+     |--- documentation/                   Documentation used in the course
+            |
+            |--- academic year 2021-22     Documentation examples from academic year 2021-22
      |
      |--- data/                            Data used in the course 
             |
